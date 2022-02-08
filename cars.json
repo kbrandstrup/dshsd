@@ -1,0 +1,31 @@
+[
+    {
+        "image": "images/barbiecar.jpg",
+        "carname": "Budget Barbie",
+        "category": "budget",
+        "persons": 4,
+        "suitcases": 1,
+        "comfort": "low",
+        "priceperday": 100
+    },
+
+    {
+        "image": "images/mustangcar.png",
+        "carname": "Mustang",
+        "category": "standard",
+        "persons": 5,
+        "suitcases": 3,
+        "comfort": "medium",
+        "priceperday": 160
+    },
+
+    {
+        "image": "images/sprintercar.jpg",
+        "carname": "Family Van",
+        "category": "minivan",
+        "persons": 7,
+        "suitcases": 5,
+        "comfort": "high",
+        "priceperday": 205
+    }
+]
